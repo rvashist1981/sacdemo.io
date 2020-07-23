@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Campton';
+  font-weight: bold;
+  src: url('../fonts/Campton-Bold.eot?#iefix') format('embedded-opentype'),  
+       url('../fonts/Campton-Bold.otf')  format('opentype'),
+       url('../fonts/Campton-Bold.woff') format('woff'), 
+       url('../fonts/Campton-Bold.ttf')  format('truetype'), 
+       url('../fonts/Campton-Bold.svg#Campton-Bold') format('svg');
+ }
+  
